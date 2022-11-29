@@ -11,6 +11,8 @@ Run `npm -v` to ensure npm (node package manager) is installed.
 
 Run `npm install` to install all packages.
 
+Run `npm install react-bootstrap bootstrap` to install react-bootstrap
+
 ## Yarn method (alternative to using NPM)
 
 Run `yarn -v` to ensure yarn is installed (alternative to npm).
